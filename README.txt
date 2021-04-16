@@ -1,6 +1,7 @@
 Proyect carried out by Arturo Sirvent for a Uni subject (startups). 
 
-The website design is open source:
+The main website design is open source, but it has some changes I did, you can visit it in https://freshblock20.github.io .
+
 ---------------------------------------------------
 
 
